@@ -1,0 +1,9 @@
+{
+    "domain_names": [
+        {
+            "domain": "socialmobilityworks.org",
+            "sub_domains": ["www"]
+        }
+    ],
+    "redirect_everything_else_to": "https://socialmobility.independent-commission.uk/"
+}
